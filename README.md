@@ -17,7 +17,8 @@
 
 Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
 
- <div style="display: inline_block"><br>
+ <div  align="center"> 
+  <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +29,7 @@ Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
+</div>
           
           
           
