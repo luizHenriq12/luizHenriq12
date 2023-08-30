@@ -18,5 +18,7 @@
 Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
 
  <i class="devicon-react-original-wordmark colored"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
           
           
