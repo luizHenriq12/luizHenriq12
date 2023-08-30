@@ -16,3 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizHenriq12&hide_progress=true)](https://github.com/luizHenriq12/github-readme-stats)<br>
 
 Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
