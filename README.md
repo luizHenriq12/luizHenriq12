@@ -5,7 +5,8 @@
 
 ![Luiz Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luizHenriq12&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizHenriq12&hide_progress=true)](https://github.com/luizHenriq12/github-readme-stats)<br>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -21,9 +22,7 @@
    </div>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizHenriq12&hide_progress=true)](https://github.com/luizHenriq12/github-readme-stats)<br>
-
-Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
+###Estudante de Sistemas para Internet, na universidade UniAlfa-Umuarama.
 
 
           
